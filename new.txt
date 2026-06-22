@@ -1,3 +1,7 @@
 hey man so today we are going to learn about git and github 
 firslty there is a working directory means in that directory we work and make changes
 staging area is like a intermediate station before commiting the changes 
+to add the file to get tracked or to intermediate station 
+git status is used to find the current status of the file 
+git add is used to add file or folder 
+git commit is used to commit a change in the file and git log is used in order to check last commited changes but remember it is very important to commit changes with specific message like the info about the commit and be very specific about it
