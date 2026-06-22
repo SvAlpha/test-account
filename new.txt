@@ -1,0 +1,3 @@
+hey man so today we are going to learn about git and github 
+firslty there is a working directory means in that directory we work and make changes
+staging area is like a intermediate station before commiting the changes 
